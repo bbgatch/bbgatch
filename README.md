@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Howdy! 👋
 My name is Ben. I'm currently studying analytics.
 
 <!--
