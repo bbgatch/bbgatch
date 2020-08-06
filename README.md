@@ -1,5 +1,12 @@
 ### Howdy! 👋
-My name is Ben. I'm currently studying analytics.
+My name is Ben.
+
+📈 I work in analytics.
+✈ I'm interested in the hospitality and travel industries.
+💻 I like working with SQL, Python, R, Tableau, and Excel.
+💾 I'm currently playing around with Jekyll to create my own website: [bbgatch.com](bbgatch.com)
+🦉 You can find me on Twitter at [@bbgatch](https://twitter.com/bbgatch)
+
 
 <!--
 **bbgatch/bbgatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
