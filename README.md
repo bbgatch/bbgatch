@@ -5,7 +5,7 @@ My name is Ben.
 
 ✈ I'm interested in the hospitality and travel industries.
 
-💻 I like working with SQL, Python, R, Tableau, and Excel.
+💻 I like working with Python, SQL, R, Tableau, and Excel.
 
 💾 I'm currently playing around with Jekyll to create my own website: [bbgatch.com](www.bbgatch.com)
 
