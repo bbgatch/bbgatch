@@ -7,7 +7,7 @@ My name is Ben.
 
 💻 I like working with Python, SQL, R, Tableau, and Excel.
 
-💾 I'm currently working on creating my own website: [bbgatch.com](www.bbgatch.com)
+💾 I've been working on my own portfolio website here: [bbgatch.com](https://www.bbgatch.com/)
 
 🦉 You can find me on Twitter at [@bbgatch](https://twitter.com/bbgatch)
 
