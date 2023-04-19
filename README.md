@@ -1,4 +1,4 @@
-### Howdy! 👋
+### Hello! 👋
 My name is Ben.
 
 📈 I work in analytics.
