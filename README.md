@@ -9,7 +9,7 @@ My name is Ben.
 
 💾 I've been working on my own portfolio website here: [bbgatch.com](https://www.bbgatch.com/)
 
-🦉 You can find me on Twitter at [@bbgatch](https://twitter.com/bbgatch)
+𝕏 You can find me on X at [@bbgatch](https://x.com/bbgatch)
 
 
 <!--
